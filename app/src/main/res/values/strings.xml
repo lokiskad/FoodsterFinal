@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Foodster</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="need_a_new_account">Noch nicht registriert?</string>
+    <string name="have_an_account">Hast du bereits ein Konto?</string>
+    <string name="display_name">Anzeigename</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="create_account">Erstelle Account</string>
+    <string name="password">Passwort</string>
+    <string name="logout">Ausloggen</string>
+    <string name="login">Logge dich ein</string>
+    <string name="write_message">Schreibe eine Nachricht</string>
+    <string name="custom_bar_title">Custom Bar Title</string>
+    <string name="lastseen">Zuletzt online</string>
+    <string name="anfragen">Anfragen</string>
+    <string name="save">Speichern</string>
+    <string name="welcome">Willkommen zu Foodster!</string>
+    <string name="status">Hi, ich benutze Foodster!</string>
+    <string name="change_status">Ändere deinen Status</string>
+    <string name="current_status">Dein aktueller Status</string>
+    <string name="friends_total">Anzahl Freunde</string>
+    <string name="send_friend_request">Sende Freundesanfrage</string>
+    <string name="decline_friend_request">Lehne Freundesanfrage ab</string>
+    <string name="change_image">Ändere dein Profilbild</string>
+    <string name="click_here_for_profile">Klicke hier um auf das Profil von %1$s zu gelangen</string>
+
+    <string name="title_activity_maps_fragment">Map</string>
+
+    <string-array name="time_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>0</item>
+    </string-array>
+</resources>
